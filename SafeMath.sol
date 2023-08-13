@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
-// SafeMath Library For uint256
-// @link            https://github.com/iPSWeb
+// SafeMath Library For uint256 solidity
+// @link            https://github.com/iPSWeb/SafeMathLibraryForUINT256/blob/main/SafeMath.sol
 // @site            PSWeb.ru
 // @author          Mr. Pligin <i@psweb.ru>
 // @copyright       Copyright (c) 2023, PSWeb
